@@ -1,4 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Dodałem tą linijkę kodu w Visual Studio");
-Console.WriteLine("Dodałem tę linię w repozytorium wiersza poleceń");
+﻿namespace pro_git_for_programmers
+{
+	internal class Program
+	{
+		static void Main(string[] args)
+		{
+			Console.WriteLine("Hello, World!");
+		}
+	}
+}
